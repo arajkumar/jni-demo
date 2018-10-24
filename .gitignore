@@ -1,8 +1,10 @@
 *.out
 *.dylib
+*.dylib.*
 *.dll
 *.so
 *.o
 *.a
 *.obj
 *.class
+*.h
